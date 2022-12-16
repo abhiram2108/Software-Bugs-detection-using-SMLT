@@ -9,8 +9,8 @@ https://www.kaggle.com/semustafacevik/software-defect-prediction?select=jm1.csv
 
 Attribute Information:
 
-loc : numeric % McCabe's line count of code
-v(g) : numeric % McCabe "cyclomatic complexity"
+loc : numeric % McCabe's line count of code <br>
+v(g) : numeric % McCabe "cyclomatic complexity" <br>
 ev(g) : numeric % McCabe "essential complexity"
 iv(g) : numeric % McCabe "design complexity"
 n : numeric % Halstead total operators + operands
